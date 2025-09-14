@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I will study github from now on!👋
 
 <!--
 **gosmdochi72/gosmdochi72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
